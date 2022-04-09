@@ -1,0 +1,38 @@
+c:\users\darks\documents\visual studio 2015\Projects\caciki25022022\caciki25022022\bin\Debug\caciki25022022.exe.config
+c:\users\darks\documents\visual studio 2015\Projects\caciki25022022\caciki25022022\bin\Debug\caciki25022022.exe
+c:\users\darks\documents\visual studio 2015\Projects\caciki25022022\caciki25022022\bin\Debug\caciki25022022.pdb
+c:\users\darks\documents\visual studio 2015\Projects\caciki25022022\caciki25022022\bin\Debug\EasyExploits.dll
+c:\users\darks\documents\visual studio 2015\Projects\caciki25022022\caciki25022022\bin\Debug\FastColoredTextBox.dll
+c:\users\darks\documents\visual studio 2015\Projects\caciki25022022\caciki25022022\bin\Debug\VisualStudioTabControl.dll
+c:\users\darks\documents\visual studio 2015\Projects\caciki25022022\caciki25022022\bin\Debug\WeAreDevs_API.dll
+c:\users\darks\documents\visual studio 2015\Projects\caciki25022022\caciki25022022\obj\Debug\caciki25022022.Form1.resources
+c:\users\darks\documents\visual studio 2015\Projects\caciki25022022\caciki25022022\obj\Debug\caciki25022022.Properties.Resources.resources
+c:\users\darks\documents\visual studio 2015\Projects\caciki25022022\caciki25022022\obj\Debug\caciki25022022.csproj.GenerateResource.Cache
+c:\users\darks\documents\visual studio 2015\Projects\caciki25022022\caciki25022022\obj\Debug\caciki25022022.exe
+c:\users\darks\documents\visual studio 2015\Projects\caciki25022022\caciki25022022\obj\Debug\caciki25022022.pdb
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022\caciki25022022\bin\Debug\EasyExploits.dll
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022\caciki25022022\bin\Debug\FastColoredTextBox.dll
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022\caciki25022022\bin\Debug\VisualStudioTabControl.dll
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022\caciki25022022\bin\Debug\WeAreDevs_API.dll
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022\caciki25022022\obj\Debug\caciki25022022.Form1.resources
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022\caciki25022022\obj\Debug\caciki25022022.csproj.GenerateResource.Cache
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022\caciki25022022\bin\Debug\cacik.exe.config
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022\caciki25022022\bin\Debug\cacik.exe
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022\caciki25022022\bin\Debug\cacik.pdb
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022\caciki25022022\obj\Debug\caciknv.Properties.Resources.resources
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022\caciki25022022\obj\Debug\cacik.exe
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022\caciki25022022\obj\Debug\cacik.pdb
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022\caciki25022022\obj\Debug\caciknv.Form2.resources
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022\caciki25022022\obj\Debug\caciki25022022.csprojResolveAssemblyReference.cache
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022_2\caciki25022022\caciki25022022\bin\Debug\cacik.exe.config
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022_2\caciki25022022\caciki25022022\obj\Debug\cacik.exe
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022_2\caciki25022022\caciki25022022\obj\Debug\cacik.pdb
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022_2\caciki25022022\caciki25022022\bin\Debug\cacik.exe
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022_2\caciki25022022\caciki25022022\bin\Debug\cacik.pdb
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022_2\caciki25022022\caciki25022022\obj\Debug\caciki25022022.csprojResolveAssemblyReference.cache
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022_2\caciki25022022\caciki25022022\obj\Debug\caciki25022022.Form1.resources
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022_2\caciki25022022\caciki25022022\obj\Debug\caciknv.Form2.resources
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022_2\caciki25022022\caciki25022022\obj\Debug\caciknv.Properties.Resources.resources
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022_2\caciki25022022\caciki25022022\obj\Debug\caciki25022022.csproj.GenerateResource.Cache
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022_2\caciki25022022\caciki25022022\bin\Debug\EasyExploits.dll
+C:\Users\darks\Downloads\Compressed\caciki25022022_2\caciki25022022_2\caciki25022022\caciki25022022\bin\Debug\WeAreDevs_API.dll
