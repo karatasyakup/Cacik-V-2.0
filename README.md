@@ -1,16 +1,16 @@
-# Cacik-V-2.0
-Free Roblox Exploit
+# cacik-V-2.0
+free Roblox Exploit
 
-Change it or use it as is.
+change it or use it as is.
 
-Have Fun ^-^
+have Fun ^-^
 
-Discord: redzii#0016
+discord: redzii#0016
 
-Youtube: https://www.youtube.com/channel/UCsUbMjEd90gMHqlwk4hLOFg
+youtube: https://www.youtube.com/channel/UCsUbMjEd90gMHqlwk4hLOFg
 
-Steam: https://steamcommunity.com/id/redzii35/
+steam: https://steamcommunity.com/id/redzii35/
 
-İnstagram: https://www.instagram.com/karatasy_/
+instagram: https://www.instagram.com/karatasy_/
 
-Discord Server: https://discord.gg/WzPWMPaBTV
+discord Server: https://discord.gg/WzPWMPaBTV
