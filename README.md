@@ -11,6 +11,4 @@ youtube: https://www.youtube.com/channel/UCsUbMjEd90gMHqlwk4hLOFg
 
 steam: https://steamcommunity.com/id/redzii35/
 
-instagram: https://www.instagram.com/karatasy_/
-
 discord Server: https://discord.gg/WzPWMPaBTV
