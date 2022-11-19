@@ -5,10 +5,12 @@ Change it or use it as is.
 
 Have Fun ^-^
 
-Discord : redzii#0016
+Discord: redzii#0016
 
-Youtube : https://www.youtube.com/channel/UCsUbMjEd90gMHqlwk4hLOFg
+Youtube: https://www.youtube.com/channel/UCsUbMjEd90gMHqlwk4hLOFg
 
-Steam : https://steamcommunity.com/id/redzii35/
+Steam: https://steamcommunity.com/id/redzii35/
 
-İnstagram : https://www.instagram.com/karatasy_/
+İnstagram: https://www.instagram.com/karatasy_/
+
+Discord Server: https://discord.gg/WzPWMPaBTV
