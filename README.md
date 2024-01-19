@@ -3,7 +3,7 @@ free Roblox Exploit
 
 change it or use it as is.
 
-have Fun ^-^
+have fun ^-^
 
 discord: redzii#0016
 
